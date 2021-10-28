@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasLibrary", "TugasLibrary\TugasLibrary.csproj", "{1E3BB44E-F390-427E-9064-4070ABA0C761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasLibraryUnitTest", "TugasLibraryUnitTest\TugasLibraryUnitTest.csproj", "{B18A8A33-08A4-4DB7-BDFB-D9A9D4F3D73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3BB44E-F390-427E-9064-4070ABA0C761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3BB44E-F390-427E-9064-4070ABA0C761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3BB44E-F390-427E-9064-4070ABA0C761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3BB44E-F390-427E-9064-4070ABA0C761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18A8A33-08A4-4DB7-BDFB-D9A9D4F3D73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18A8A33-08A4-4DB7-BDFB-D9A9D4F3D73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18A8A33-08A4-4DB7-BDFB-D9A9D4F3D73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18A8A33-08A4-4DB7-BDFB-D9A9D4F3D73E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C793FC34-338D-417C-BAE7-8D6FCB300363}
+	EndGlobalSection
+EndGlobal
